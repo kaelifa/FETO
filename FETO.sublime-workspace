@@ -1,0 +1,1368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background-o",
+				"background-position:   (property)"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"fw",
+				"fw-n	font-weight: normal;"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"list",
+				"list-style:   (property)"
+			],
+			[
+				"padding",
+				"padding-left:   (property)"
+			],
+			[
+				"forms",
+				"forms"
+			],
+			[
+				"ele",
+				"elements_list"
+			],
+			[
+				"djang",
+				"django-templates/"
+			],
+			[
+				"style",
+				"style_guide"
+			],
+			[
+				"cu",
+				"current_datetime"
+			],
+			[
+				"Dog",
+				"DogGender"
+			],
+			[
+				"dae",
+				"datetime"
+			],
+			[
+				"Show",
+				"ShowAddress"
+			],
+			[
+				"In",
+				"IntegerField"
+			],
+			[
+				"CH",
+				"CharField"
+			],
+			[
+				"nu",
+				"null"
+			],
+			[
+				"Ma",
+				"ManyToManyField"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"po",
+				"post_code"
+			],
+			[
+				"sho",
+				"show_secretary"
+			],
+			[
+				"Lo",
+				"Location"
+			],
+			[
+				"FOr",
+				"ForeignKey"
+			],
+			[
+				"Cl",
+				"ClassType"
+			],
+			[
+				"For",
+				"ForeignKey"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"EE",
+				"E5E5E5"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"content-e",
+				"content-elementbar"
+			],
+			[
+				"font-",
+				"font-weight"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"lore",
+				"Snippet: lorem - Medium paragraph"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"sideba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"d",
+				"File: Duplicate"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa in",
+				"Package Control: Install Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"p in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"todo",
+				"Set Syntax: Todo"
+			],
+			[
+				"syn py",
+				"Set Syntax: Python"
+			],
+			[
+				"sy py",
+				"Set Syntax: Python"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"s h",
+				"Snippet: html"
+			],
+			[
+				"syn ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"lor",
+				"Snippet: lorem - Medium paragraph"
+			],
+			[
+				"lo",
+				"Snippet: lorem - One sentence"
+			],
+			[
+				"syn h",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML5"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"quick",
+				"Quick File Creator: Create directory"
+			],
+			[
+				"mana",
+				"Fetch: Manage"
+			],
+			[
+				"zen",
+				"Zen Coding: Wrap zen as you type"
+			],
+			[
+				"zen ",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setting de",
+				"Preferences: Settings - Default"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syn mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"fetc",
+				"Fetch: File"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"cssco",
+				"Sort via CSScomb"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"JSLint"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 567.0
+	},
+	"console":
+	{
+		"height": 275.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/styles.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/global/_typography.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/elements/_body.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/navigation/_primary.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_media.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_media-description.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/default-layout/_wrapper.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_social.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/default-layout/_footer.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/default-layout/_main.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_footer-copy.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/default-layout/_header.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_sub-content.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_intro.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/settings/_susy.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/elements/_form.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_contact.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_main-content.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/parts/shared/html-header.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/config.rb",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/parts/shared/footer.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/single.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-admin/media.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css/dev.css",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/dev.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/scaffold/_susy.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/parts/shared/html-footer.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/index.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/plugins/_disqus.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_blog-post.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css/styles.css",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/comments.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/css/reset.css",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/category.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/index.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/parts/shared/header.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/404.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/external/starkers-utilities.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_data-list.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/elements/_a.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_media-image.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_media-title.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_respond.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_about-the-author.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/archive.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/functions.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/search.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/elements/_time.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_author-description.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_comments.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/default-layout/_body.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/global/_normalize.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/mixins/_font-face.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/placeholders/_primary.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_icon.scss",
+		"/Users/kristina/Sites/ClearAttitude/kristinafloyd/website/css/content.css",
+		"/Users/kristina/Sites/ClearAttitude/kristinafloyd/website/css/elements.css",
+		"/Users/kristina/Sites/ClearAttitude/kristinafloyd/website/css/layout.css",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-admin/admin-footer.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/mixins/_font-stacks.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/variables/_path.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_latest-posts.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/mixins/_font-sizing.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/scaffold/_zengrid.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_icons.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/fonts/_font-face.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/scaffold/_singularity.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/global/_border-box.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/global/_transition.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/modules/_elsewhere.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/style.css",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/scaffold/_grid.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/variables/_colour-palette.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/variables/_default-text-shadow.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/elements/_html.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials/elements/_nav.scss",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/functions copy.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/parts/shared/html-footer copy.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/parts/shared/header copy.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/parts/shared/footer copy.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/parts/shared/html-header copy.php",
+		"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/images/bg.png",
+		"/Users/kristina/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/kristina/Library/Application Support/Sublime Text 2/Packages/User/Git.sublime-settings",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css/styles.css",
+		"/Users/kristina/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/partials/functions/_colour-opacity.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/partials/elements/_hx.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/partials/elements/_body.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/partials/mixins/_rgba.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/styles.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/partials/elements/_html.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/partials/mixins/_font-sizing.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/partials/functions/_colourOpacity.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/partials/layout/_content.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/base.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/show/details.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/partials/global/_form.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/views.py",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/partials/variables/_font-stacks.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/models.py",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/urls.py",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/partials/global/_typography.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/test.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/forms.py",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/class/details.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/template-images/background/stock-illustration-17267432-seamless-pattern-with-agility-training.jpg",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/class/list.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/dog/details.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/user/details.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/.sass-cache/57074ca2f01dfeffc80d1bdd40c0033de225e125/_shared.sassc",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/dog/list.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/show/list.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/style-guide/snippets/elements/Ordered list",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/partials/navigation/_primary.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/partials/elements/_nav.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/partials/elements/_a.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src/partials/global/_normalize.scss",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/home/logged-out.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/calendar/view.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/registration/login.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/registration/register.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/site/about.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/site/contact.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/style-guide/elements.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/style-guide/index.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/django-templates/home/logged-in.html",
+		"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/templatetags/custom.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/",
+			"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/",
+			"/Users/kristina/Sites/kaelifa.com/development/www/wp-content/themes/starkers/template/css-src/partials",
+			"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/waggytails/waggytails/layout/css-src",
+			"waggytails/waggytails/django-templates",
+			"/waggytails/waggytails/django-templates",
+			"/Users/kristina/Sites/agilitydiary/development/www.agilitydiary.com/css-src/partials/h5bp/_normalize.scss",
+			"/Volumes/Projects/Dental Directory/Development/continuity-ecommerce-platform/Frontend/Views/Shared",
+			"/Volumes/Projects/Dental Directory/Development/continuity-ecommerce-platform/Frontend/Views/Product",
+			"/Volumes/Projects/Dental Directory/Development/continuity-ecommerce-platform/Frontend/Views/Shared",
+			"/Volumes/Projects/Dental Directory/Development/continuity-ecommerce-platform/Frontend/Views/Product",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace\\js",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace\\css-src\\partials\\modules",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace\\css-src\\partials",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace\\css-src\\partials\\modules",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace\\js",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace\\css-src\\partials",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace\\css-src\\partials",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace\\css-src\\partials",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace\\css-src\\partials",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace\\css-src\\partials\\modules",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace\\css-src\\partials",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace\\css-src\\partials\\modules",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace\\css-src\\partials\\modules",
+			"",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Sites\\continuity\\core\\nodetypes",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Sites\\continuity\\core",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5\\Continuity\\workspace\\css",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-repo\\c5",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-demo-installation-repo\\c5-demo-installation\\brands\\partner-portal\\css-src\\partials",
+			"C:\\inetpub\\wwwroot\\C5-Demo\\development\\c5-demo\\build\\c5-demo-installation-repo\\c5-demo-installation\\brands\\partner-portal\\css",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\src",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\css",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl\\pagetemplates",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\src\\partials",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl\\pagetemplates",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\src\\partials",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl\\pagetemplates",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\src",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\src",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl\\pagetemplates",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\js",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\src\\partials",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\js",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl\\pagetemplates",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\src",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl\\pagetemplates",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\src",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl\\pagetemplates",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\src\\partials",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl\\pagetemplates",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\src\\partials",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\src\\partials",
+			"C:\\Projects\\Bright Horizons\\development\\HG\\bright-horizons\\build\\bright-horizons-installation-repo\\installation\\bright-horizons-installation\\brands\\bright-horizons\\xsl"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@include span-columns",
+			"@include container",
+			"reply-title",
+			"\"respond",
+			"respond",
+			"<article",
+			"title",
+			"icon1",
+			"icon2",
+			"icon1",
+			"icon2",
+			"outline",
+			"webfonts",
+			"yummo_semibold",
+			"icon",
+			"justvectorv2",
+			"justvector",
+			"body",
+			"<a",
+			"default-font-stack",
+			"</section>",
+			"container",
+			"?>",
+			"</label>",
+			"label",
+			"strong",
+			"<strong>",
+			"li",
+			"body",
+			"colourOpacity",
+			"brand",
+			";\n",
+			"\n$color-brand-secondary:		254,67,101; // Cornucopia\n$color-brand-tertiary:			252,157,154; // Peony\n\n$color-brand-complementary:	249,205,173; // Sugar champagne\n$color-brand-complementary:	200,200,169; // Timothy Hay",
+			"shadow",
+			"$color-copy",
+			"color",
+			";\n",
+			"//",
+			"\\d.",
+			"\\d",
+			"body",
+			"p>",
+			"div",
+			"{% for field_name in form %}",
+			"div",
+			"class_instance",
+			"dog_name",
+			"ClassForm",
+			"render_to_response",
+			"show",
+			")\n",
+			"class show",
+			"show_details",
+			"{% block \"title\" %}: ",
+			"block",
+			"{% block \"title\" %}: ",
+			"show",
+			"CharField",
+			"TextField",
+			"home/logged-in.html",
+			"show_details",
+			"show/details",
+			"Class",
+			"class_list",
+			"dog",
+			"class_row",
+			"ClassForm",
+			"class_row",
+			"show",
+			"<a",
+			"qual",
+			"vet",
+			"P",
+			"dog",
+			"class_row",
+			"),\n",
+			"proces",
+			"urls",
+			"contrib.auth",
+			"formPasswordField_UID",
+			"formTextField_UID",
+			"sticky",
+			"//**",
+			"//@",
+			"// /** ",
+			"980px",
+			"}",
+			"*",
+			" ",
+			";",
+			":",
+			"{",
+			"}",
+			"{",
+			">\n",
+			"formSelectGroupUID",
+			"formSelectUID",
+			"formPasswordField",
+			"formTextField",
+			"formSelect",
+			"formSelectGroup",
+			"1",
+			"radio",
+			"Radio",
+			"radio",
+			"Radio",
+			"radio",
+			"2",
+			"radio1",
+			"settings",
+			"null=false",
+			"sex",
+			"):\n",
+			"sex",
+			"static",
+			"sub",
+			"Sub",
+			"rows=\"10\"",
+			"article",
+			"eol",
+			"address",
+			"website",
+			"show_secretary_",
+			"max_length=500",
+			"show_secretary_address",
+			" =",
+			"models",
+			"worming"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{% block \"title\" %}",
+			"*/\n",
+			"// 3",
+			"// 2",
+			"// 1",
+			"($double-radius);",
+			"($default-radius);",
+			"DDDDDD",
+			"#FFFF97;",
+			"#CCCCCC;",
+			"#EEEEEE;",
+			"#000000;",
+			"#BBBBBB;",
+			"#FFFFFF;",
+			"#E4ECF0;",
+			"#555555;",
+			"#DDDDDD;",
+			"#333333;",
+			"#EFEFEF",
+			"#666666;",
+			"#CCCCCC;",
+			"#000000;",
+			"#B8B8B9;",
+			"#FFFFFF;",
+			"#EEEEEE;",
+			"#FFFFFF;",
+			"#308CB5;",
+			"#EEEEEE;",
+			"#E9E9E9;",
+			"#DDDDDD;",
+			"<p class=\"prototype\">[/PROTOTYPE HTML]</p>",
+			"<p class=\"prototype\">[PROTOTYPE HTML]</p>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"wp-content/themes/starkers/parts/shared/html-footer.php"
+			],
+			[
+				"prim",
+				"wp-content/themes/starkers/template/css-src/partials/navigation/_primary.scss"
+			],
+			[
+				"wra",
+				"wp-content/themes/starkers/template/css-src/partials/default-layout/_wrapper.scss"
+			],
+			[
+				"sus",
+				"wp-content/themes/starkers/template/css-src/partials/settings/_susy.scss"
+			],
+			[
+				"soci",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_social.scss"
+			],
+			[
+				"footercop",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_footer-copy.scss"
+			],
+			[
+				"footer",
+				"wp-content/themes/starkers/template/css-src/partials/default-layout/_footer.scss"
+			],
+			[
+				"medides",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_media-description.scss"
+			],
+			[
+				"mediaim",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_media-image.scss"
+			],
+			[
+				"mediascs",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_media.scss"
+			],
+			[
+				"main",
+				"wp-content/themes/starkers/template/css-src/partials/default-layout/_main.scss"
+			],
+			[
+				"copy",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_footer-copy.scss"
+			],
+			[
+				"wrap",
+				"wp-content/themes/starkers/template/css-src/partials/default-layout/_wrapper.scss"
+			],
+			[
+				"sing",
+				"wp-content/themes/starkers/single.php"
+			],
+			[
+				"foo",
+				"wp-content/themes/starkers/parts/shared/footer.php"
+			],
+			[
+				"meim",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_media-image.scss"
+			],
+			[
+				"medes",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_media-description.scss"
+			],
+			[
+				"medsc",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_media.scss"
+			],
+			[
+				"medi",
+				"wp-admin/media.php"
+			],
+			[
+				"pri",
+				"wp-content/themes/starkers/template/css-src/partials/navigation/_primary.scss"
+			],
+			[
+				"typ",
+				"wp-content/themes/starkers/template/css-src/partials/global/_typography.scss"
+			],
+			[
+				"soc",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_social.scss"
+			],
+			[
+				"intr",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_intro.scss"
+			],
+			[
+				"bod",
+				"wp-content/themes/starkers/template/css-src/partials/elements/_body.scss"
+			],
+			[
+				"dev",
+				"wp-content/themes/starkers/template/css/dev.css"
+			],
+			[
+				"sty",
+				"wp-content/themes/starkers/template/css-src/styles.scss"
+			],
+			[
+				"footerscss",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_footer-copy.scss"
+			],
+			[
+				"social",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_social.scss"
+			],
+			[
+				"foot",
+				"wp-content/themes/starkers/parts/shared/footer.php"
+			],
+			[
+				"conf",
+				"wp-content/themes/starkers/template/config.rb"
+			],
+			[
+				"headscss",
+				"wp-content/themes/starkers/template/css-src/partials/default-layout/_header.scss"
+			],
+			[
+				"blog",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_blog-post.scss"
+			],
+			[
+				"aboutthe",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_about-the-author.scss"
+			],
+			[
+				"ascss",
+				"wp-content/themes/starkers/template/css-src/partials/elements/_a.scss"
+			],
+			[
+				"desc",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_author-description.scss"
+			],
+			[
+				"headsc",
+				"wp-content/themes/starkers/template/css-src/partials/default-layout/_header.scss"
+			],
+			[
+				"head",
+				"wp-content/themes/starkers/parts/shared/header.php"
+			],
+			[
+				"mai",
+				"wp-content/themes/starkers/template/css-src/partials/default-layout/_main.scss"
+			],
+			[
+				"stscs",
+				"wp-content/themes/starkers/template/css-src/styles.scss"
+			],
+			[
+				"he",
+				"wp-content/themes/starkers/parts/shared/header.php"
+			],
+			[
+				"wrapp",
+				"wp-content/themes/starkers/template/css-src/partials/default-layout/_wrapper.scss"
+			],
+			[
+				"fooscss",
+				"wp-content/themes/starkers/template/css-src/partials/default-layout/_footer.scss"
+			],
+			[
+				"ty",
+				"wp-content/themes/starkers/template/css-src/partials/global/_typography.scss"
+			],
+			[
+				"footscs",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_footer-copy.scss"
+			],
+			[
+				"fo",
+				"wp-content/themes/starkers/template/css-src/partials/default-layout/_footer.scss"
+			],
+			[
+				"heasc",
+				"wp-content/themes/starkers/template/css-src/partials/default-layout/_header.scss"
+			],
+			[
+				"foosc",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_footer-copy.scss"
+			],
+			[
+				"cont",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_contact.scss"
+			],
+			[
+				"st",
+				"wp-content/themes/starkers/template/css-src/styles.scss"
+			],
+			[
+				"font",
+				"wp-content/themes/starkers/template/css-src/partials/mixins/_font-stacks.scss"
+			],
+			[
+				"icon",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_icon.scss"
+			],
+			[
+				"fon",
+				"wp-content/themes/starkers/template/css-src/partials/mixins/_font-face.scss"
+			],
+			[
+				"",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_icon.scss"
+			],
+			[
+				"font-s",
+				"wp-content/themes/starkers/template/css-src/partials/mixins/_font-stacks.scss"
+			],
+			[
+				"ze",
+				"wp-content/themes/starkers/template/css-src/partials/scaffold/_zengrid.scss"
+			],
+			[
+				"con",
+				"wp-content/themes/starkers/template/config.rb"
+			],
+			[
+				"late",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_latest-posts.scss"
+			],
+			[
+				"form",
+				"wp-content/themes/starkers/template/css-src/partials/elements/_form.scss"
+			],
+			[
+				"conta",
+				"wp-content/themes/starkers/template/css-src/partials/modules/_contact.scss"
+			],
+			[
+				"borde",
+				"wp-content/themes/starkers/template/css-src/partials/global/_border-box.scss"
+			],
+			[
+				"styl",
+				"wp-content/themes/starkers/template/css/styles.css"
+			],
+			[
+				"susy",
+				"wp-content/themes/starkers/template/css-src/partials/scaffold/_susy.scss"
+			],
+			[
+				"stye",
+				"wp-content/themes/starkers/template/css-src/styles.scss"
+			],
+			[
+				"styles",
+				"wp-content/themes/starkers/template/css/styles.css"
+			],
+			[
+				"headerscs",
+				"wp-content/themes/starkers/template/css-src/partials/default-layout/_header.scss"
+			],
+			[
+				"styes.css",
+				"wp-content/themes/starkers/template/css/styles.css"
+			],
+			[
+				"gri",
+				"wp-content/themes/starkers/template/css-src/partials/scaffold/_grid.scss"
+			],
+			[
+				"border",
+				"wp-content/themes/starkers/template/css-src/partials/global/_border-box.scss"
+			],
+			[
+				"style",
+				"wp-content/themes/starkers/template/css-src/styles.scss"
+			],
+			[
+				"htmlfoo",
+				"wp-content/themes/starkers/parts/shared/html-footer.php"
+			],
+			[
+				"htmlhead",
+				"wp-content/themes/starkers/parts/shared/html-header.php"
+			],
+			[
+				"det",
+				"waggytails/waggytails/django-templates/show/details.html"
+			],
+			[
+				"for",
+				"waggytails/waggytails/layout/css-src/partials/global/_form.scss"
+			],
+			[
+				"ba",
+				"waggytails/waggytails/django-templates/base.html"
+			],
+			[
+				"vie",
+				"waggytails/waggytails/views.py"
+			],
+			[
+				"vi",
+				"waggytails/waggytails/views.py"
+			],
+			[
+				"s",
+				"waggytails/waggytails/layout/css-src/styles.scss"
+			],
+			[
+				"ur",
+				"waggytails/waggytails/urls.py"
+			],
+			[
+				"b",
+				"waggytails/waggytails/django-templates/base.html"
+			],
+			[
+				"t",
+				"waggytails/waggytails/layout/css-src/partials/global/_typography.scss"
+			],
+			[
+				"col",
+				"waggytails/waggytails/layout/css-src/partials/variables/_colour-palette.scss"
+			],
+			[
+				"u",
+				"waggytails/waggytails/urls.py"
+			],
+			[
+				"f",
+				"waggytails/waggytails/forms.py"
+			],
+			[
+				"sidebar",
+				"waggytails/waggytails/layout/.sass-cache/57074ca2f01dfeffc80d1bdd40c0033de225e125/_shared.sassc"
+			],
+			[
+				"lis",
+				"waggytails/waggytails/django-templates/class/list.html"
+			],
+			[
+				"mod",
+				"waggytails/waggytails/models.py"
+			],
+			[
+				"no",
+				"waggytails/waggytails/layout/css-src/partials/global/_normalize.scss"
+			],
+			[
+				"deta",
+				"waggytails/waggytails/django-templates/class/details.html"
+			],
+			[
+				"ho",
+				"waggytails/waggytails/django-templates/home/logged-in.html"
+			],
+			[
+				"de",
+				"waggytails/waggytails/django-templates/dog/details.html"
+			],
+			[
+				"sho",
+				"waggytails/waggytails/django-templates/show/list.html"
+			],
+			[
+				"mo",
+				"waggytails/waggytails/models.py"
+			],
+			[
+				"show",
+				"waggytails/waggytails/django-templates/show/list.html"
+			],
+			[
+				"list",
+				"waggytails/waggytails/django-templates/dog/list.html"
+			],
+			[
+				"log",
+				"waggytails/waggytails/django-templates/home/logged-in.html"
+			],
+			[
+				"hom",
+				"waggytails/waggytails/django-templates/logged-in-home.html"
+			],
+			[
+				"v",
+				"waggytails/waggytails/views.py"
+			],
+			[
+				"l",
+				"waggytails/waggytails/django-templates/registration/login.html"
+			],
+			[
+				"li",
+				"waggytails/waggytails/django-templates/style-guide/snippets/elements/Link"
+			],
+			[
+				"ma",
+				"waggytails/manage.py"
+			],
+			[
+				"man",
+				"waggytails/manage.py"
+			],
+			[
+				"set",
+				"waggytails/waggytails/settings.py"
+			],
+			[
+				"view",
+				"waggytails/waggytails/views.py"
+			],
+			[
+				"se",
+				"waggytails/waggytails/settings.py"
+			],
+			[
+				"or",
+				"waggytails/waggytails/django-templates/style-guide/snippets/elements/Ordered list"
+			],
+			[
+				"un",
+				"waggytails/waggytails/django-templates/style-guide/snippets/elements/Unordered list"
+			],
+			[
+				"tex",
+				"waggytails/waggytails/django-templates/style-guide/snippets/form/Text field"
+			],
+			[
+				"00",
+				"waggytails/waggytails/migrations/0003_auto__del_dogsex__add_doggender__del_field_dog_dog_sex__add_field_dog_.py"
+			],
+			[
+				"nor",
+				"css-src/partials/global/_normalize.scss"
+			],
+			[
+				".scss",
+				".sass-cache/28018ba867f95362aa622a1c7043038960f456c6/ie.scssc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/inetpub/wwwroot/C5-Demo/development/c5-demo/build/c5-demo-installation-repo/crm-public-site.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}
